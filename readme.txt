@@ -5,5 +5,3 @@ HELLO FROM ANDERo
 Hello From Elias
 
 IntelliJ Test
-
-IntelliJ Test 2
