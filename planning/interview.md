@@ -1,30 +1,18 @@
 ## Some questions to ask potential users to formulate an idea of the functionality of our VQS Software:
 
-How do you currently handle waiting in lines or queues in your daily life, whether in a business or service context?
-
-What challenges or frustrations have you experienced when waiting in physical queues, and how do you think a virtual queueing system could address these issues?
+What challenges or frustrations do have you experienced when waiting in physical queues, and how do you think a virtual queueing system could address these issues?
 
 What are your main expectations when it comes to using a virtual queueing system as a customer?
 
-Can you describe a recent experience where you had to wait in line for a service or support, and what could have made that experience better for you?
+What features would you like to have in a virtual queue app?
 
-What industries or businesses could benefit the most from implementing a virtual queueing system, and why?
-
-What features or functionalities would make you more likely to choose a business or service that offers a virtual queueing system over those that do not?
-
-What concerns do you have regarding the privacy and security of your personal information when using a virtual queueing system, and how could those concerns be addressed?
+What concerns do you have regarding the privacy and security of your personal information when using a virtual queueing system?
 
 What communication methods do you prefer for receiving updates about your position in a virtual queue and estimated wait times? (e.g., SMS, app notifications, email)
 
 How important is it to you that a virtual queueing system provides real-time updates on wait times and your place in the queue?
 
 Do you have any concerns or reservations about interacting with automated messages or chatbots in a virtual queueing system, as opposed to talking to a human representative?
-
-Are there any specific scenarios or businesses where you feel a virtual queueing system could significantly enhance your overall experience as a customer?
-
-How do you feel about businesses using data from virtual queueing systems to optimise their operations and improve customer service? What level of data sharing would you find acceptable?
-
-Can you describe your ideal experience when using a virtual queueing system in a busy location or during peak times?
 
 Are there any situations where you think a virtual queueing system might not be a good fit, and traditional methods would be more appropriate?
 
