@@ -1,4 +1,4 @@
-# Some questions to ask potential users to formulate an idea of the functionality of our VQS Software:
+## Some questions to ask potential users to formulate an idea of the functionality of our VQS Software:
 
 How do you currently handle waiting in lines or queues in your daily life, whether in a business or service context?
 
@@ -8,7 +8,7 @@ What are your main expectations when it comes to using a virtual queueing system
 
 Can you describe a recent experience where you had to wait in line for a service or support, and what could have made that experience better for you?
 
-What specific industries or businesses do you think could benefit the most from implementing a virtual queueing system, and why?
+What industries or businesses could benefit the most from implementing a virtual queueing system, and why?
 
 What features or functionalities would make you more likely to choose a business or service that offers a virtual queueing system over those that do not?
 
@@ -54,5 +54,4 @@ What do you consider the most critical elements for ensuring a seamless and user
 
 Do you have any concerns or preferences related to the methods of joining a virtual queue (e.g., via mobile app, website, in-person kiosk) and how businesses communicate the availability of these options?
 
-
-
+When looking to join a queue, would you rather scan a QR code or barcode or join the queue remotely?
